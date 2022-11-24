@@ -1,0 +1,9 @@
+{
+"TOTAL_MEMORY": 268435456,
+"dataUrl": "v3-improved-hackroom.data.unityweb",
+"asmCodeUrl": "v3-improved-hackroom.asm.code.unityweb",
+"asmMemoryUrl": "v3-improved-hackroom.asm.memory.unityweb",
+"asmFrameworkUrl": "v3-improved-hackroom.asm.framework.unityweb",
+"splashScreenStyle": "Dark",
+"backgroundColor": "#222C36"
+}
